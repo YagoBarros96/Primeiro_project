@@ -1,0 +1,256 @@
+
+
+body h1 {  
+    position: absolute;
+    top: 20px;
+    left: 598px;
+    color: #FFFFFF; 
+    font-family: Nunito, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 24px;   
+}
+
+header {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    background: #00A3B4;  
+    height: 70px;  
+    width: 1450px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 2px 3px rgba(186, 186, 186, 0.5);
+}
+
+.menu ul {
+    position: absolute;
+    margin: 0%; 
+    text-align: center;
+    top: 72px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 2px 3px rgba(186, 186, 186, 0.5);
+    height: 40px;   
+    background-color: #00A3B4 ;
+    list-style: none;
+    width: 1450px;
+}
+
+.menu ul li {
+    display: inline;
+}
+
+.menu ul li a {
+    padding:  8px 120px;
+    display: inline-block;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: Nunito, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 24px;         
+}
+
+#busca { 
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 5px #AAAAAA;
+    border-radius: 5px;
+    left: 140px;
+    top: 250px;
+    height: 60px;
+    width: 360px;
+}
+  
+#txtBusca {   
+    position: absolute;
+    font-size: 16px;
+    color: #B3B3B3;
+    border: none;
+    font-family: Nunito, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    height: 55px;
+    width: 340px;
+    left:14px;
+    outline: 0;
+}
+
+#btnBusca {
+    position: absolute;
+    left: 87.15%;
+    top: 23.13%; 
+}
+
+form h2 {  
+    position: absolute;
+    font-family: Nunito, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    left: 610px;
+    top: 159.67px;
+    color: #333333;      
+}
+
+
+#btnTop button {
+    position: absolute;
+    Width: 328px;
+    Height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Nunito, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    background: #0595A6;
+    border-radius: 6px;
+    left: 975px;
+    top: 250px;
+    border: none;
+    outline: 0;  
+}
+
+#forms {
+
+    position: absolute;
+    left: 140px;
+    height: 80px;
+    right: 50.35%;
+    top: 329px;
+    bottom: 60.06%;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+
+#t1 {
+    position: absolute;
+    width: 575px;
+    left: 140px;
+    top: 370px;
+    height: 80px;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+
+#t2 {
+    position: absolute;
+    width: 575px;
+    left: 725px;
+    top: 370px;
+    height: 80px;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+    
+#t3 {
+    position: absolute;
+    width: 575px;
+    left: 140px;
+    top: 460px;
+    height: 80px;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+
+#t4 {
+    position: absolute;
+    width: 575px;
+    left: 725px;
+    top: 460px;
+    height: 80px;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+
+#t5 {
+    position: absolute;
+    width: 575px;
+    left: 140px;
+    top: 550px;
+    height: 80px;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+
+#t6 {
+    position: absolute;
+    width: 575px;
+    left: 725px;
+    top: 550px;
+    height: 80px;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+
+#t7 {
+    position: absolute;
+    width: 575px;
+    left: 140px;
+    top: 640px;
+    height: 80px;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+
+#t8 {
+    position: absolute;
+    width: 575px;
+    left: 725px;
+    top: 640px;
+    height: 80px;
+    background: #F7F7F7;
+    border: 1px solid #BDBDBD;
+    border-radius: 6px;
+}
+
+#t1 h4 {
+    position: absolute;
+    left: 19px;
+    top: 45px;
+    font-family: Nunito, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 21px;  
+    color: #333333;
+}
+
+table h3 {
+    position: absolute;
+    left: 19px;
+    top: 6px;
+    font-family: Nunito, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
+
+table button {
+    position: absolute;
+    Width: 100px;
+    Height: 30px;
+    Top: 28px;
+    Left: 460px;
+    background: #0595A6;
+    border-radius: 6px;
+    border: none;
+    color: #FFFFFF;
+    font-family: Nunito, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
